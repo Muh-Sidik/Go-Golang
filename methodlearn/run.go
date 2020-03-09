@@ -18,5 +18,6 @@ func Run()  {
 	// schedule()
 	// timerGO()
 	// convert()
-	stringFunc()
+	// stringFunc()
+	regex()
 }
