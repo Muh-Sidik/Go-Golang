@@ -19,5 +19,7 @@ func Run()  {
 	// timerGO()
 	// convert()
 	// stringFunc()
-	regex()
+	// regex()
+	encoding1()
+	shA1()
 }
