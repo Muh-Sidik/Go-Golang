@@ -20,6 +20,8 @@ func Run()  {
 	// convert()
 	// stringFunc()
 	// regex()
-	encoding1()
-	shA1()
+	// encoding1()
+	// shA1()
+	// ArguMen()
+	testFlag()
 }
