@@ -24,5 +24,6 @@ func Run()  {
 	// shA1()
 	// ArguMen()
 	// testFlag()
-	testCommand()
+	// testCommand()
+	urlParsing()
 }
