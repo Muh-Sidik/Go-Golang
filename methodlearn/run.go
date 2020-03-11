@@ -23,5 +23,6 @@ func Run()  {
 	// encoding1()
 	// shA1()
 	// ArguMen()
-	testFlag()
+	// testFlag()
+	testCommand()
 }
