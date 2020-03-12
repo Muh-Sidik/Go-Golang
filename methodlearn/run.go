@@ -25,5 +25,6 @@ func Run()  {
 	// ArguMen()
 	// testFlag()
 	// testCommand()
-	urlParsing()
+	// urlParsing()
+	jsonCon()
 }
